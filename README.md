@@ -1,6 +1,5 @@
 
-# 
-Fashion MNIST Generation with Various GAN Architectures
+# Fashion MNIST Generation with Various GAN Architectures
 
 
 ## Description
